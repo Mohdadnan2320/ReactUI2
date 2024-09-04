@@ -3,7 +3,7 @@ import { GoArrowRight } from "react-icons/go";
 
 const Footer = () => {
   return (
-    <div className="w-full h-screen px-6 py-2 bg-[#F5F5F5]">
+    <div className="w-full h-screen px-6 py-2 bg-[#F5F5F5] lg:h-max">
       <div className="my-10">
         <h1 className="text-[#2E2E2E] text-center font-bold text-8xl md:text-9xl md:mb-10 lg:text-[17vw]">
           Officex
